@@ -53,7 +53,7 @@ body {
 }
 
 .text-area-content h1 {
-  font-size: 30px;
+  font-size: 1.875rem;
   display: inline-block;
   width: 250px;
   margin-bottom: 23px;
@@ -64,7 +64,7 @@ body {
 }
 
 .text-area-content p {
-  font-size: 15px;
+  font-size: 0.9375rem;
   color: var(--main-paragraph-white);
   display: inline-block;
   width: 260px;
@@ -75,14 +75,14 @@ body {
 .text-area-content .label {
   font-family: 'Lexend Deca', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 0.75rem;
   color: var(--stat-headings-white);
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
 .text-area-content .number {
-  font-size: 25px;
+  font-size: 1.5625rem;
   font-weight: 700;
   display: inline-block;
   margin-bottom: 6px;
@@ -130,7 +130,7 @@ body {
   }
 
   .text-area-content h1 {
-    font-size: 35px;
+    font-size: 2.1875rem;
     display: inline-block;
     width: 370px;
     margin-bottom: 30px;
